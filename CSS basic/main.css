@@ -12,3 +12,12 @@
   margin-top: 40px;
   padding: 15px;
 }
+.navbar {
+  /* width: 50%; */
+  max-width: 500px;
+  border: 15px solid plum;
+  /* width er shahajje bole dite pari ekta block element kototuk place nibe */
+  background-color: lightgrey;
+  padding: 15px;
+  margin: 25px;
+}
