@@ -11,6 +11,7 @@
   margin-left: 50px;
   margin-top: 40px;
   padding: 15px;
+  text-shadow: 4px 4px blue;
 }
 .navbar {
   /* width: 50%; */
@@ -20,4 +21,15 @@
   background-color: lightgrey;
   padding: 15px;
   margin: 25px;
+  outline: 15px solid red;
+  /*bahire ekta border er moto create hbe */
+}
+.navbar p {
+  text-indent: 50px;
+  /*prothom line ta viteore show korbe */
+  /* text-align: center; */
+  text-align: justify;
+  /* text-decoration: underline; */
+  line-height: 1cm;
+  letter-spacing: 2px;
 }
