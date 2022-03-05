@@ -23,6 +23,10 @@
   margin: 25px;
   outline: 15px solid red;
   /*bahire ekta border er moto create hbe */
+  /* font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  eta default css er font */
+  font-family: font-family: 'Bebas Neue', cursive;;
+  /* eta font family er font */
 }
 .navbar p {
   text-indent: 50px;
