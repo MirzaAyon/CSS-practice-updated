@@ -95,6 +95,10 @@ visibility: hidden; */
     padding: 200px;
     background-color: lightgrey;
     margin-top: 20px;
+    /* opacity: 0.5; ekta jhapsha vaab chole ashbe pichone */
+}
+.my-table:hover{
+    opacity: 0.5;
 }
 .table-container{
     width: 50%;
