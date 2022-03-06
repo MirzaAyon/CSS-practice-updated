@@ -123,4 +123,23 @@ visibility: hidden; */
     background-color: white;
     
 }
+.my-display{
+    
+    padding: 25px;
+    background-color: aqua;
+    position: sticky;
+    top: 0;
+}
+.float {
+border: 3px solid black;
+overflow: auto;
+/* overflow auto na dile pic ta border er bahire chole jay */
+}
+.float p{
+    text-align: center;
+    
+    }
+#myimg{
+    float: left;
+}
     
