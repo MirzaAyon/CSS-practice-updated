@@ -76,6 +76,8 @@ margin: auto;
 background-color: lightskyblue;
 padding: 50px;
 margin-top: 100px;
+/* display: none;
+visibility: hidden; */
 }
 
 .list-class ol li{
@@ -84,4 +86,9 @@ margin-top: 100px;
     padding: 10px;
     background-color:  lightgrey;
 } 
+.my-display{
+    padding: 25px;
+    border: 3px solid red;
+    display: inline;
+}
     
