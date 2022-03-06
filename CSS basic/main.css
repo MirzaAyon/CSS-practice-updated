@@ -65,9 +65,23 @@ text-decoration: none;
     background-color:aqua;
     
     }
-    #innerLink:checked{
-        color: white;
-        background-color:aqua;
-        /* checked er bodole active o likha jay */
-        }
+#innerLink:checked{
+    color: white;
+    background-color:aqua;
+    /* checked er bodole active o likha jay */
+}
+.list-class{
+width: 50%;
+margin: auto;
+background-color: lightskyblue;
+padding: 50px;
+margin-top: 100px;
+}
+
+.list-class ol li{
+    color: black;
+    font-size: 30px;
+    padding: 10px;
+    background-color:  lightgrey;
+} 
     
