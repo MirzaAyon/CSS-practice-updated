@@ -142,4 +142,10 @@ overflow: auto;
 #myimg{
     float: left;
 }
+
+/* ek ek kore vitore dhukar jonno niche */
+.my-table div table tr th{
+    background-color: red;
+}
+
     
