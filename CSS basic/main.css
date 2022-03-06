@@ -20,7 +20,9 @@
   /* width er shahajje bole dite pari ekta block element kototuk place nibe */
   background-color: lightgrey;
   padding: 15px;
-  margin: 25px;
+  /* margin: 25px;
+  margin auto nile center e chole ashbe  */
+  margin: auto;
   outline: 15px solid red;
   /*bahire ekta border er moto create hbe */
   /* font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
@@ -37,3 +39,35 @@
   line-height: 1cm;
   letter-spacing: 2px;
 }
+#innerLink{
+display: block;
+width: 150px;
+margin: auto;
+padding: 25px;
+background-color: limegreen;
+border-radius: 10px 10px;
+text-decoration: none;
+}
+
+#innerLink:link{
+    color: black;
+    background-color :yellow;
+    
+    }
+
+    #innerLink:visited{
+        color: white;
+        background-color:red;
+        
+        }
+#innerLink:hover{
+    color: white;
+    background-color:aqua;
+    
+    }
+    #innerLink:checked{
+        color: white;
+        background-color:aqua;
+        /* checked er bodole active o likha jay */
+        }
+    
